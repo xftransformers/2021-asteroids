@@ -1,0 +1,3 @@
+numpy==1.21.2
+pgzero==1.2.1
+pygame==2.0.1
